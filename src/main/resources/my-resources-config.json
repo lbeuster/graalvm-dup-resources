@@ -2,6 +2,9 @@
 	"resources": [
 		{
 			"pattern": "graalvm-test.txt"
+		},
+		{
+			"pattern": "graalvm.*"
 		}
 	]
 }
