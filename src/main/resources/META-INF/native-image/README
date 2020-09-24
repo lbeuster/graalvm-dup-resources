@@ -1,0 +1,1 @@
+native-image config files are generated in target/classes/META-INF/native-image at build time. The directory has to exist.
